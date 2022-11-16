@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shivam
 - 👀 I’m interested in programming languages and learning new technological quests
-- 🌱 I’m currently learning java,python...
+- 🌱 I’m currently learning java,python,c...
 - 💞️ I’m looking to collaborate on new projects with my basic level
 - 📫 How to reach me by tagging me👍👍
 
